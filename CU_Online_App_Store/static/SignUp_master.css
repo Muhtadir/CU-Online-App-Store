@@ -1,0 +1,44 @@
+div{
+  background-color: gray;
+  /* text-align: left; */
+  border: solid;
+
+  margin-top: 90px;
+  margin-bottom: 90px;
+  margin-right: 350px;
+  margin-left: 350px;
+
+   padding-top: 50px;
+   padding-right: 200px;
+   padding-bottom: 30px;
+   padding-left: 90px;
+
+
+}
+h1{
+  font-family: cursive;
+}
+
+/* left-aligned-labels.css (excerpt) fieldset li {
+   float: left; clear: left; width: 100%; padding-bottom: 1em; }
+
+left-aligned-labels.css (excerpt) fieldset {
+  float: left; clear: left; width: 100%; margin: 0 0 1.5em 0; padding: 0; } */
+
+/* left-aligned-labels.css (excerpt) fieldset.submit {
+  float: none; width: auto; border: 0 none #FFF; padding-left: 12em; } */
+
+
+</div>
+
+label{
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 250px;
+  text-align:right;
+}
+input {
+display: inline-block;
+float: right;
+}

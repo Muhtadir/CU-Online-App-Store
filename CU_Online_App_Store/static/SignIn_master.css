@@ -1,0 +1,36 @@
+div{
+  background-color: gray;
+  /* text-align: left; */
+  border: solid;
+  font-size: 1.2em;
+
+  margin-top: 90px;
+  margin-bottom: 90px;
+  margin-right: 300px;
+  margin-left: 350px;
+
+   padding-top: 50px;
+   padding-right: 200px;
+   padding-bottom: 50px;
+   padding-left: 90px;
+
+
+
+}
+h1{
+  font-family: cursive;
+}
+
+</div>
+
+label{
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 250px;
+  text-align:left;
+}
+input {
+display: inline-block;
+float: right;
+}
